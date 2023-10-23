@@ -1,0 +1,7 @@
+path: ../input/d/philips5130/lidc-idri/datasets/lidc-idri/
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: lesion
